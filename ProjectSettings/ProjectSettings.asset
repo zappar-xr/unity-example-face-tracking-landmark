@@ -605,10 +605,10 @@ PlayerSettings:
   spritePackerPolicy: 
   webGLMemorySize: 16
   webGLExceptionSupport: 0
-  webGLNameFilesAsHashes: 0
+  webGLNameFilesAsHashes: 1
   webGLDataCaching: 1
   webGLDebugSymbols: 0
-  webGLEmscriptenArgs: 
+  webGLEmscriptenArgs: ' -std=c++11'
   webGLModulesDirectory: 
   webGLTemplate: PROJECT:Zappar2019
   webGLAnalyzeBuildSize: 0
